@@ -81844,7 +81844,7 @@ $S:507}
 A.R1.prototype={
 H(a){return A.bB(B.JP,B.u,B.n,B.v)}}
 A.v9.prototype={
-H(a){var s=null,r=A.ao(a,s,t.w).w.a.a<500,q=A.aF(12),p=A.cy(B.cJ,1),o=A.ar(this.c,s,s,s,A.c9().$3$color$fontSize$fontWeight(B.x,r?20:24,B.bh),s,s)
+H(a){var s=null,r=A.ao(a,s,t.w).w.a.a<500,q=A.aF(12),p=A.cy(B.cJ,1),o=A.ar(this.c,s,s,s,A.c9().$3$color$fontSize$fontWeight(B.x,r?18:24,B.bh),s,s)
 return A.aM(s,A.bJ(A.b([o,B.Qv,A.ar(this.d,s,s,s,A.c9().$4$color$fontSize$fontWeight$height(B.eh,r?8:12,B.H,1.2),B.bS,s)],t.p),B.u,B.n,B.v),B.m,s,s,new A.aE(B.ep,s,p,q,s,s,B.w),s,s,s,s,B.FA,s,s,s)}}
 A.qb.prototype={
 H(a){var s=null,r=A.aF(20),q=A.cy(B.Ed,1)
